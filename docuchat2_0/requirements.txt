@@ -14,3 +14,4 @@ python-magic; sys_platform != 'win32'
 streamlit
 faiss-cpu
 sentence-transformers
+streamlit_option_menu
